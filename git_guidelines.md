@@ -1,9 +1,7 @@
 # The Siyelo Flow
 
-We've been using git for several years at Siyelo, made lots of mistakes, and learned quite a few
-things along the way. We've used nvie's git-flow, been weirdly miltant about always
-having merge commits, and battled some pretty gnarly merge conflicts. In hindsight, a lot of what we 
-did was rather unnecessary.
+We've been using git for several years at Siyelo, made lots of mistakes, and learned quite a few things along the way. We've used nvie's git-flow, been weirdly miltant about always
+having merge commits, and battled some pretty gnarly merge conflicts. In hindsight, a lot of what we did was rather unnecessary.
 
 We've settled on a simple (and productive) workflow that suits the way we work: 
 small teams, rapid iterations and short feedback loops with our clients.
